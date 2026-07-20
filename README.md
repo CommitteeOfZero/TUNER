@@ -9,7 +9,7 @@
 - A decrypted game dump of *OCCULTIC;NINE* for the PS4, ~~PS Vita, or Xbox One~~
 - Enough storage space to hold presumably multiple copies of the game you want to convert
 
-Note: *Kono Subarashii Sekai ni Shukufuku o! -Kono Yokubukai Game ni Shinpan o!-*, also known as *Konosuba: Judgment on this Greedy Game!*, can only be purchased through the [DMM storefront](https://dlsoft.dmm.com/detail/images_0013/), which may necessitate usage of a VPN set to a Japanese region. This game is not to be confused with *Kono Subarashii Sekai ni Shukufuku o! ~Kono Yokubou no Ishou ni Chouai o!~*, also known as *KONOSUBA - God's Blessing on this Wonderful World! Love For These Clothes Of Desire!*, which exists within a completely different game engine.
+Note: *Kono Subarashii Sekai ni Shukufuku o! -Kono Yokubukai Game ni Shinpan o!-*, also known as *Konosuba: Judgment on this Greedy Game!*, can only be purchased through the [DMM storefront](https://dlsoft.dmm.com/detail/images_0013/), which may necessitate usage of a VPN set to a Japanese region. This game is not to be confused with *Kono Subarashii Sekai ni Shukufuku o! \~Kono Yokubou no Ishou ni Chouai o!\~*, also known as *KONOSUBA - God's Blessing on this Wonderful World! Love For These Clothes Of Desire!*, which exists within a completely different game engine.
 
 Please do not mistakenly download the source code of this project when attempting to use it. Download the relevant release to the side.
 
