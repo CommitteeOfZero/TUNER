@@ -46,7 +46,7 @@ With a PS4 ~~or PSV~~ dump, these files will originate from the `windata` folder
 
 To avoid publishing cryptographic keys within this conversion kit, obtaining these keys is done at the beginning of the conversion process by referencing addresses within the provided files. If you don't know what that means, that's fine. All you probably need to know is the next part.
 
-Once all files are in place and you have run `convert.bat`, it should produce a fully operational OCCULTIC;NINE PC port within the `OUTPUT` folder. This process may take a significant amount of time, as it has to unpack the entirety of *OCCULTIC;NINE*, make several thousands upon thousands of text adjustments and audio/video conversions, and then repack any relevant archives.
+Once all files are in place and you have run `convert.bat`, it should produce a fully operational *OCCULTIC;NINE* PC port within the `OUTPUT` folder. This process may take a significant amount of time, as it has to unpack the entirety of *OCCULTIC;NINE*, make several thousands upon thousands of text adjustments and audio/video conversions, and then repack any relevant archives.
 
 **Credit to the handy tools in the releases:**
 - [FreeMote Toolkit](https://github.com/UlyssesWu/FreeMote) - file unpacking/repacking
@@ -60,7 +60,8 @@ An extremely special, massive, infinite, never-ending thanks to [MrComputerRevo]
 And of course, [Tea](https://github.com/BoilingTeapot), for their own insight bordering on wizardry. 
 
 **Known issues:**
-- Partly or entirely crackly audio, immediately evident upon entering the title screen. Restarting the game usually remedies this for the session, though if occurring unavoidably no matter what, re-running TUNER may be necessary.
+- The resultant port requires either locale emulator or system locale, set to Japanese
+- Partly or entirely crackly audio, immediately evident upon entering the title screen. Restarting the game usually remedies this for the session, though if occurring unavoidably no matter what, re-running *TUNER* may be necessary.
 - No innate ability to pause the game or interact with certain gameplay mechanics via Mouse & Keyboard. Currently, this is supported purely with a dedicated or emulated gamepad.
 - Some imagery rendering incorrectly, such as the manual. This should not affect the gameplay. 
 - The current state of the output has not been thoroughly tested, though preliminary tests do suggest less conversion errors than the prior *OcculticKonosuba* project. Please report any unknown issues.
